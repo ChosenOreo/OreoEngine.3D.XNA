@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eXtreme Mazes", "eXtreme Mazes\eXtreme Mazes\eXtreme Mazes.csproj", "{1F0E6227-C5BA-461D-9A21-7FC4985E2B68}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "eXtreme MazesContent", "eXtreme Mazes\eXtreme MazesContent\eXtreme MazesContent.contentproj", "{02628F73-D4FF-4468-B4DC-51C484DDD507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0E6227-C5BA-461D-9A21-7FC4985E2B68}.Debug|x86.ActiveCfg = Debug|x86
+		{1F0E6227-C5BA-461D-9A21-7FC4985E2B68}.Debug|x86.Build.0 = Debug|x86
+		{1F0E6227-C5BA-461D-9A21-7FC4985E2B68}.Release|x86.ActiveCfg = Release|x86
+		{1F0E6227-C5BA-461D-9A21-7FC4985E2B68}.Release|x86.Build.0 = Release|x86
+		{02628F73-D4FF-4468-B4DC-51C484DDD507}.Debug|x86.ActiveCfg = Debug|x86
+		{02628F73-D4FF-4468-B4DC-51C484DDD507}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
