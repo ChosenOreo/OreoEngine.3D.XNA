@@ -1,6 +1,0 @@
-C:\Users\Adrian Collado\Documents\Visual Studio 2010\Projects\XNA_DEV\eXtreme Mazes\eXtreme Mazes\eXtreme Mazes\bin\x86\Debug\eXtreme Mazes.exe
-C:\Users\Adrian Collado\Documents\Visual Studio 2010\Projects\XNA_DEV\eXtreme Mazes\eXtreme Mazes\eXtreme Mazes\bin\x86\Debug\eXtreme Mazes.pdb
-C:\Users\Adrian Collado\Documents\Visual Studio 2010\Projects\XNA_DEV\eXtreme Mazes\eXtreme Mazes\eXtreme Mazes\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Adrian Collado\Documents\Visual Studio 2010\Projects\XNA_DEV\eXtreme Mazes\eXtreme Mazes\eXtreme Mazes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Adrian Collado\Documents\Visual Studio 2010\Projects\XNA_DEV\eXtreme Mazes\eXtreme Mazes\eXtreme Mazes\obj\x86\Debug\eXtreme Mazes.exe
-C:\Users\Adrian Collado\Documents\Visual Studio 2010\Projects\XNA_DEV\eXtreme Mazes\eXtreme Mazes\eXtreme Mazes\obj\x86\Debug\eXtreme Mazes.pdb
